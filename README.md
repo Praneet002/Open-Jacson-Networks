@@ -20,13 +20,12 @@ Visual components and Python
 
 ## Experiment:
 ![1](https://github.com/Venkatigi/Open-Jacson-Networks/assets/94154252/130527d1-4c1e-4b99-8f2b-110cf38147f8)
-![2](https://github.com/Venkatigi/Open-Jacson-Networks/assets/94154252/0de48ba4-4568-4d1e-abda-ac81d229d060)
 
 
 
 ## Program:
 ```python
-### Developed By    : Praneer S
+### Developed By    : Praneet S
 ### Register Number : 212221230078
 ```
 ```python
